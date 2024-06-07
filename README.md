@@ -1,4 +1,4 @@
-# pump.fun slerf bundle
+# pump.fun self bundle
 
 Click to visit https://slerf.tools/en-us/pump-launch-and-buy-token/solana
 
